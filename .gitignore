@@ -1,0 +1,4 @@
+heptacoin-seeder
+*.o
+dnsseed*
+dnsstats.log
